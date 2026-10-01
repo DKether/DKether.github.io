@@ -1,9 +1,11 @@
 ---
-title: "resume.qmd"
-<iframe width="800" height="1000"src="Academic Resume (5).pdf">
-</iframe>
+title: "Academic Resume"
+format: html
 ---
 
-<iframe width="800" height="1000"src="Academic Resume (5).pdf"></iframe>
+<iframe width="800" height="1000" src="AcademicResume.pdf"></iframe>
+---
+
+<iframe width="800" height="1000"src="AcademicResume.pdf"></iframe>
 
 ``{=html}
