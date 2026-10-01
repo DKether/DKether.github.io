@@ -4,5 +4,6 @@ title: "resume.qmd"
 </iframe>
 ---
 
-\<iframe width="800" height="1000"\
-src="Academic Resume (5).pdf"`></iframe>`{=html}
+<iframe width="800" height="1000"src="Academic Resume (5).pdf"></iframe>
+
+``{=html}
