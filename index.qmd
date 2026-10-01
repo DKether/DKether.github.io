@@ -1,16 +1,15 @@
 ---
-title: "Your Name"
-image: [headshot_file_name].jpg
+title: "David Williams"
+image: IMG_5143 (2).JPG
 about:
   template: jolla
   links:
   - icon: github
     text: GitHub
-    href: https://github.com/[Dkether]
+    href: https://github.com/Dkether
   - icon: linkedin
     text: LinkedIn
-    href: https://linkedin.com/in/[david williams]
+    href: https://www.linkedin.com/in/david-williams-b32082440/
   - icon: inboxes
-    text: Contact
-    href: mailto:[david06graham@gmail.com]
+    text: Contact 
 ---

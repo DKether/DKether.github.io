@@ -1,7 +1,8 @@
 ---
 title: "resume.qmd"
+<iframe width="800" height="1000"src="Academic Resume (5).pdf">
+</iframe>
 ---
 
 \<iframe width="800" height="1000"\
-src="Academic Resume (5).pdf"\>\
-\</iframe\>
+src="Academic Resume (5).pdf"`></iframe>`{=html}
