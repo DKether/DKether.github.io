@@ -3,5 +3,6 @@ title: "Academic Resume"
 format: html
 ---
 
-<iframe src="AcademicResume.pdf"width="800" height="1000"> </iframe>
+<iframe src="AcademicResume.pdf" width="800" height="1000">
 
+</iframe>
