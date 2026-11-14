@@ -1,6 +1,14 @@
 [
   {
     "listing": "/portfolio project.html",
+    "items": [
+      "/posts/post-with-code/index.html",
+      "/posts/Data Visualization/Data Visualization/index.html",
+      "/posts/welcome/index.html"
+    ]
+  },
+  {
+    "listing": "/project.html",
     "items": []
   }
 ]
